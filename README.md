@@ -1,1 +1,1 @@
-# face-detection
+Deep learning smiles recognition.
